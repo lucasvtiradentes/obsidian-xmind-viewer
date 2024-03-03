@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-xmind-viewer",
+	"name": "obsidian xmind viewer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "👀 make possible to view xmind files in obsidian.",
+	"author": "Lucas Vieira",
+	"authorUrl": "https://github.com/lucasvtiradentes",
+	"fundingUrl": "https://github.com/sponsors/lucasvtiradentes",
+	"isDesktopOnly": false
+}
